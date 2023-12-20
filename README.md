@@ -16,6 +16,7 @@ Normalizasyon: Aykırı değerlere karşı daha duyarlıdır, çünkü minimum v
 Standardizasyon: Aykırı değerlere daha dayanıklıdır, çünkü ortalama ve standart sapma kullanılır.
 
 2.Bit plane slicing
+
 Bit-plane slicing, görüntü işleme alanında kullanılan bir tekniktir ve bir görüntünün her pikselinin biner tabanındaki değerini, 
 yani her pikselin bitlerini ayrı ayrı incelemek ve işlemek anlamına gelir. Bu işlem, görüntünün farklı bit düzeylerindeki bilgileri analiz etmek, 
 görselleştirmek veya işlemek için kullanılır. Her bir bit düzeyi, görüntünün belirli bir detay seviyesini temsil eder.
